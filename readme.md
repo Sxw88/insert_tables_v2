@@ -1,0 +1,3 @@
+generates names based on race to be inserted into an SQL table.
+
+made this for an assignment, use case is very specific...
